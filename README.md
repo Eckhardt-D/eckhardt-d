@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eckhardt Dreyer</h1>
 <h3 align="center">I am a professional JS / TS developer, creating a cooler web 🚀</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eckhardt-d&label=Profile%20views&color=0e75b6&style=flat" alt="eckhardt-d" /> </p>
+
+<a href="https://www.producthunt.com/posts/superdense?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-superdense" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=327559&theme=dark" alt="Superdense - Bookmark Manager for Minimalists and Web Junkies | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eckhardt-d" alt="eckhardt-d" /></a> </p>
 
